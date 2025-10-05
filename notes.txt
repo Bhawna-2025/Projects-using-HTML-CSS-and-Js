@@ -1,0 +1,9 @@
+smooth scrolling 
+    attach loco scroll css
+    attach locomotive scrolling js
+    some code from loco github for js
+
+gsap
+    attach first link from gsap cdn in html
+    
+scrolltrigger   
